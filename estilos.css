@@ -1,0 +1,42 @@
+p{
+      color:golden;
+      font-size:30pt;
+   font-family:"Lucida handwriting";
+                       }
+                       a:link{
+                               text-
+                      decoration:none;
+                      background-color:#7FFF00;
+                         color:#8B4513;
+                      padding:14px 25px;
+                      text-align: center;
+                      display: inline-block;
+                      }
+                     
+                      a:hover{
+                        text-decoration: underline;
+
+
+                      }
+
+                     a:active{
+                       text-decoration: underline;
+                       background-color:#F5DEB3;
+}
+
+body{
+
+background-color:green;
+font-style: oblique;
+text-align: center;
+
+}
+table{ background-color: aqua;}
+
+img:hover{ transform: scale(1.2);}
+
+
+img{
+  border-radius: 10%;
+
+}
